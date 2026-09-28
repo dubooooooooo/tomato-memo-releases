@@ -6,6 +6,31 @@
 메모는 날이 갈수록 초록에서 빨강으로 익어서, 오래 묵은 일이 한눈에 보여요.
 다 끝낸 메모는 **수확**해서 이달의 **잼 병**에 담고, 잼 병은 1년짜리 **잼 선반**에 차곡차곡 쌓여요.
 
+<p align="center">
+  <img src="images/plant.png" width="300" alt="토마토 메모장 위젯: 줄기에 여러 색으로 익은 토마토 다섯 개가 달린 화분과 이달의 잼 병">
+</p>
+
+## 📸 둘러보기
+
+**토마토를 누르면 토마토 모양 편지지가 펼쳐져요.** 체크리스트, 글자 색, 형광펜으로 꾸밀 수 있어요.
+
+<p align="center">
+  <img src="images/letter.png" width="720" alt="토마토 모양 편지지: 왼쪽 면에 제목과 날짜, 오른쪽 면에 체크리스트와 서식 있는 본문">
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="images/list.png" alt="이번 달 잼 병 목록: 수확한 메모들과 다시 심기·버리기 버튼"></td>
+    <td align="center" width="50%"><img src="images/shelf.png" alt="잼 선반: 1월부터 9월까지 잼 병이 달마다 다른 높이로 차 있는 1년치 선반"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>이번 달 잼 병</b><br>수확한 메모가 모여요. 다시 심을 수도 있어요.</td>
+    <td align="center"><b>잼 선반</b><br>1년치 잼 병이 달마다 쌓여요.</td>
+  </tr>
+</table>
+
+<sub>사진 속 메모는 모두 예시예요.</sub>
+
 ---
 
 ## ⬇️ 설치하기
